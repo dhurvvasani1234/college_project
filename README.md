@@ -1,5 +1,4 @@
 # college_project
-This is the Dhruv college project 
-I will be sharing my college project here and sharing my technical knowledge 
- india is beautiful country
- 
+<h4> This is the Dhruv college project </h4> <br>
+I will be sharing my college project here and sharing my technical knowledge <br>
+ india is beautiful country <br>
